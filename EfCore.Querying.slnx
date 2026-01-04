@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/EfCore.Querying.Tests.Integration/EfCore.Querying.Tests.Integration.csproj" />
+    <Project Path="tests/EfCore.Querying.Tests.MultiLanguageContent/EfCore.Querying.Tests.MultiLanguageContent.csproj" />
+  </Folder>
+  <Project Path="EfCore.Querying.csproj" />
+</Solution>
